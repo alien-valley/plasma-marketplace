@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/alien-valley/plasma-marketplace/issues"
   },
-  "homepage": "https://github.com/alien-valley/plasma-marketplace#readme"
+  "homepage": "https://github.com/alien-valley/plasma-marketplace#readme",
+  "dependencies": {
+    "ip": "^1.1.5",
+    "node-json-rpc2": "^1.1.0"
+  }
 }
